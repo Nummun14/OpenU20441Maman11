@@ -7,10 +7,10 @@ import java.util.Scanner;
 
 public class Triangle {
     /**
-     *  Gets the length of the 3 sides of a triangle from the user,
-     *  checks their legality,
-     *  in case of illegal lengths - prints appropriate notice.
-     *  otherwise - calculates the perimeter and area of the triangle
+     * Gets the length of the 3 sides of a triangle from the user,
+     * checks their legality,
+     * in case of illegal lengths - prints appropriate notice.
+     * otherwise - calculates the perimeter and area of the triangle
      */
     public static void main(String[] args) {
         // Gets the lengths of the triangle sides from the user

@@ -8,9 +8,9 @@ import java.util.Scanner;
 
 public class Congruent {
     /**
-     *  Gets six vertices representing two triangles,
-     *  calculates the length of each side of the triangles,
-     *  checks if the two triangles are congruent.
+     * Gets six vertices representing two triangles,
+     * calculates the length of each side of the triangles,
+     * checks if the two triangles are congruent.
      */
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
